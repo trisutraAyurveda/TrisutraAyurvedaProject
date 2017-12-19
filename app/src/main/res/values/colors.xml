@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#5ea42d</color>
+    <color name="colorPrimaryDark">#5ea42d</color>
+    <color name="colorAccent">#5ea42d</color>
+
+    <array name="dotColors">
+        <item>@color/leaf_pink</item>
+        <item>@color/leaf_yellow</item>
+        <item>@color/leaf_green</item>
+    </array>
+
+    <color name="leaf_green">#4ACE13</color>
+    <color name="leaf_yellow">#EAC113</color>
+    <color name="leaf_pink">#EA2173</color>
+
+    <color name="one">#117fc4</color>
+    <color name="two">#D53B2A</color>
+    <color name="three">#894718</color>
+    <color name="white">#FFFFFF</color>
+    <color name="text_normal">#6E6E6E</color>
+    <color name="center_kapha">#82927e</color>
+    <color name="end_kapha">#52aad4</color>
+    <color name="start_kapha">#b07a29</color>
+    <color name="center_pitta">#FA9F15</color>
+    <color name="end_pitta">#FAD101</color>
+    <color name="start_pitta">#F26E22</color>
+    <color name="center_vata">#40A47D</color>
+    <color name="end_vata">#249cd0</color>
+    <color name="start_vata">#5ea42d</color>
+
+</resources>

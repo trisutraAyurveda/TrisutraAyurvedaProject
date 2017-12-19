@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<layout>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:background="@drawable/gradient_pitta"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:padding="@dimen/_16sdp">
+
+        <ImageView
+            android:id="@+id/img_kapha"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_pitta" />
+
+        <TextView
+            android:id="@+id/txt_kapha"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_40sdp"
+            android:fontFamily="@font/elkwood"
+            android:text="@string/pitta"
+            android:textColor="@color/white"
+            android:textSize="@dimen/textsize_86sp" />
+
+        <TextView
+            android:id="@+id/txt_kapha_sub"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif-condensed"
+            android:text="@string/energy_of_transformation"
+            android:textColor="@color/white"
+            android:textSize="@dimen/textsize_16sp" />
+
+    </LinearLayout>
+
+</layout>
